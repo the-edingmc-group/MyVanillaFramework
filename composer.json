@@ -1,0 +1,17 @@
+{
+    "name": "the-edingmc-group/vanilla-php-framework",
+    "description": "A simple framework written in Vanilla PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "TheEdingMCGroup",
+            "email": "info@edingmc.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
